@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" ?>
+<XML>
+	<XMLHEADER>version="1.0"</XMLHEADER>
+
+	<SKIN>Default</SKIN>
+
+	<DEFFONT>Arial</DEFFONT>
+
+	<IME>false</IME>
+
+	<BAREPORT>
+		<ADDR>www.battlearena.com</ADDR>
+		<DIR>incoming/gunz_US</DIR>
+	</BAREPORT>
+
+	<EMBLEM_URL>http://162.252.57.120/emblems/upload/</EMBLEM_URL>
+	<TEMBLEM_URL>http://162.252.57.120/emblems/upload/</TEMBLEM_URL>
+
+	<CASHSHOP_URL>http://162.252.57.120/</CASHSHOP_URL>
+
+	<HOMEPAGE>
+	    <URL>http://162.252.57.120/</URL>
+	    <TITLE>GunZ the Duel</TITLE>
+	</HOMEPAGE>
+
+	<LOCATORLIST>
+		<LOCATOR id="1" IP="162.252.57.120" />
+		<LOCATOR id="2" IP="162.252.57.120" />
+	</LOCATORLIST>
+
+	<TLOCATORLIST>
+		<LOCATOR id="1" IP="162.252.57.120" />
+		<LOCATOR id="2" IP="162.252.57.120" />
+	</TLOCATORLIST>
+</XML>

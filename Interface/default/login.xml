@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML ID="Login">
+	<Schema xmlns="MaietData" xmlns:dt="MaietDataTypes" />
+
+<!--
+   Login ???
+
+   
+   Last Update : 29.OCT.2004
+   Editor      : Lim Dong Hwan
+   Modified by Rodi
+-->
+
+
+<!-- ??? ?? : Login -->
+	<FRAME item="Login">
+		<FRAMELOOK>NullFrameLook</FRAMELOOK>
+		<BOUNDS>
+			<X>0</X>
+			<Y>0</Y>
+			<W>800</W>
+			<H>600</H>
+		</BOUNDS>
+		<TITLEBAR>false</TITLEBAR>
+		<RESIZABLE>false</RESIZABLE>
+		<FOCUSABLE>false</FOCUSABLE>
+		<VISIBLE>false</VISIBLE>
+	</FRAME>
+
+<!-- Picture : ?? ??? -->
+	<PICTURE item="Login_BackgrdImg" parent="Login">
+		<BOUNDS>
+			<X>0</X>
+			<Y>0</Y>
+			<W>800</W>
+			<H>600</H>
+		</BOUNDS>
+		<STRETCH/>
+		<BITMAP></BITMAP>
+	</PICTURE>
+
+<!-- ??? ?? : LoginFrame, changed it to cover the whole screen (800by600) -->
+	<FRAME item="LoginFrame" parent="Login">
+		<FRAMELOOK>NullFrameLook</FRAMELOOK>
+		<BOUNDS>
+			<X>0</X>
+			<Y>0</Y>
+			<W>800</W>
+			<H>600</H>
+		</BOUNDS>
+		<TITLEBAR>false</TITLEBAR>
+		<RESIZABLE>false</RESIZABLE>
+		<FOCUSABLE>false</FOCUSABLE>
+		<VISIBLE>false</VISIBLE>
+	</FRAME>
+	
+		<!-- Login Frame Image-->
+	<PICTURE item="LoginFrameImage" parent="Login">
+		<BOUNDS>
+			<X>320</X>
+			<Y>319</Y>
+			<W>175</W>
+			<H>82</H>
+		</BOUNDS>
+		<STRETCH/>
+		<BITMAP>bglogin.png</BITMAP>
+	</PICTURE>
+
+	
+		<!--  Animacion Anucion -->
+	<ANIMATION item="AnnLoginAnim" parent="Login">
+		<PLAYMODE>repetition</PLAYMODE>
+		<ANIMTEMPLATE>AnnLogin</ANIMTEMPLATE>
+		<BOUNDS>
+			<X>540</X>
+			<Y>200</Y>
+			<W>25</W>
+			<H>18</H>
+		</BOUNDS>
+		<VISIBLE>true</VISIBLE>
+	</ANIMATION>
+	
+<!-- LABEL : ??? -->
+	<LABEL item="Login_ConnectingMsg" parent="Login">
+		<FONT>FONTa9b</FONT>
+		<TEXTCOLOR>
+			<R>255</R>
+			<G>255</G>
+			<B>255</B>
+		</TEXTCOLOR>
+		<BOUNDS>
+			<X>300</X>
+			<Y>330</Y>
+			<W>400</W>
+			<H>25</H>
+		</BOUNDS>
+		<STRETCH/>
+		<VISIBLE>false</VISIBLE>
+		<TEXT></TEXT>
+	</LABEL>
+
+<!-- ?? ?? -->
+	<!-- SERVERVIEW : ?? ?? -->
+	<SERVERVIEW item="SelectedServer" parent="Login">
+		<BOUNDS>
+                                <X>328</X>
+			<Y>325</Y>
+			<W>138</W>
+			<H>18</H>
+		</BOUNDS>
+	</SERVERVIEW>
+
+	<!-- LISTBOX : ???? -->
+	<LISTBOX item="nulllistbox" parent="Login">
+		<LISTBOXLOOK>EquipListBoxLook</LISTBOXLOOK>
+		<BOUNDS>
+			<X>630</X>
+			<Y>476</Y>
+			<W></W>
+			<H></H>
+		</BOUNDS>
+		<ENABLE>FALSE</ENABLE>
+	</LISTBOX>
+	<LISTBOX item="nulllistbox" parent="Login">
+		<LISTBOXLOOK>EquipListBoxLook</LISTBOXLOOK>
+		<BOUNDS>
+			<X>630</X>
+			<Y>476</Y>
+			<W></W>
+			<H></H>
+		</BOUNDS>
+		<ENABLE>FALSE</ENABLE>
+	</LISTBOX>
+
+	<!-- Edit : ??? ??? -->
+	<EDIT item="LoginID" parent="Login">
+		<EDITLOOK>NormalEditLook</EDITLOOK>
+		<BOUNDS>
+			<X>354</X>
+			<Y>351</Y>
+			<W>110</W>
+			<H>16</H>
+		</BOUNDS>
+		<TEXT></TEXT>
+	</EDIT>
+
+
+	<!-- LISTBOX : ???? -->
+	<LISTBOX item="nulllistbox" parent="Login">
+		<LISTBOXLOOK>EquipListBoxLook</LISTBOXLOOK>
+		<BOUNDS>
+			<X>656</X>
+			<Y>504</Y>
+			<W></W>
+			<H></H>
+		</BOUNDS>
+		<ENABLE>FALSE</ENABLE>
+	</LISTBOX>
+	<LISTBOX item="nulllistbox" parent="Login">
+		<LISTBOXLOOK>EquipListBoxLook</LISTBOXLOOK>
+		<BOUNDS>
+			<X>656</X>
+			<Y>504</Y>
+			<W></W>
+			<H></H>
+		</BOUNDS>
+		<ENABLE>FALSE</ENABLE>
+	</LISTBOX>
+
+	<!-- Edit : ???? ??? -->
+	<EDIT item="LoginPassword" parent="Login">
+		<EDITLOOK>NormalEditLook</EDITLOOK>
+		<PASSWORD>true</PASSWORD>
+		<BOUNDS>
+			<X>354</X>
+			<Y>378</Y>
+			<W>110</W>
+			<H>16</H>
+		</BOUNDS>
+		<TEXT></TEXT>
+	</EDIT>
+
+
+<!-- Label : ??? ?? -->
+	<LABEL item="LoginError" parent="LoginFrame">
+		<TEXTCOLOR>
+			<R>200</R>
+			<G>0</G>
+			<B>0</B>
+		</TEXTCOLOR>
+		<BOUNDS>
+			<X>28</X>
+			<Y>151</Y>
+			<W>200</W>
+			<H>32</H>
+		</BOUNDS>
+		<TEXT></TEXT>
+	</LABEL>
+	
+	
+	
+<!-- ?? -->
+	<!-- Button : ??? ?? -->
+	<BMBUTTON item="LoginOK" parent="Login">
+		<BOUNDS>
+			<X>466</X>
+			<Y>336</Y>
+			<W>53</W>
+			<H>53</H>
+		</BOUNDS>
+		<STRETCH/>
+		<BITMAP type="up">BT_login.png</BITMAP>
+		<BITMAP type="over">BT_login_on.png</BITMAP>
+		<BITMAP type="down">BT_login_on.png</BITMAP>
+	</BMBUTTON>		
+
+
+
+<!-- Exit Button -->
+	<BMBUTTON item="Exit" parent="Login">
+		<BOUNDS>
+			<X>328</X>
+			<Y>300</Y>
+			<W>20</W>
+			<H>20</H>
+		</BOUNDS>
+		<STRETCH/>
+		<BITMAP type="up">salir.png</BITMAP>
+		<BITMAP type="over">salir.png</BITMAP>
+		<BITMAP type="down">salir.png</BITMAP>
+		<CONFIRMMESSAGE>¿Quieres salir de Star Gunz?</CONFIRMMESSAGE> <!-- ¿Quieres salir del juego? -->
+		<CONFIRMLOOK>DefaultFrameLook</CONFIRMLOOK>
+		<FOCUSABLE>FALSE</FOCUSABLE>
+	</BMBUTTON>
+
+<!-- Opcion Button -->
+<BMBUTTON item="OptionFrame" parent="Login">
+	<BUTTONLOOK>NormalBmButtonLook</BUTTONLOOK>
+		<BOUNDS>
+			<X>0</X>
+			<Y>0</Y>
+			<W>103</W>
+			<H>29</H>
+		</BOUNDS>
+		<STRETCH/>
+		<BITMAP type="up">TC_opcion.png</BITMAP>
+		<BITMAP type="over">TC_opcion_s.png</BITMAP>
+		<BITMAP type="down">TC_opcion.png</BITMAP>
+		<TEXT></TEXT>
+	</BMBUTTON>
+
+<!-- ?? IP ?? -->
+	<!-- Label : ?? IP -->
+	<LABEL item="LabelServerIP" parent="LoginFrame">
+		<BOUNDS>
+			<X>130</X>
+			<Y>202</Y>
+			<W>200</W>
+			<H>24</H>
+		</BOUNDS>
+		<TEXT>Debug Server</TEXT>
+		<VISIBLE>false</VISIBLE>
+	</LABEL>
+
+	<!-- Edit : IP ?? ??? -->
+	<EDIT item="ServerAddress" parent="LoginFrame">
+		<EDITLOOK>NormalEditLook</EDITLOOK>
+		<BOUNDS>
+			<X>215</X>
+			<Y>202</Y>
+			<W>110</W>
+			<H>24</H>
+		</BOUNDS>
+		<TEXT></TEXT>
+		<VISIBLE>false</VISIBLE>
+	</EDIT>
+
+	<!-- Edit : IP ?? ??? -->
+	<EDIT item="ServerPort" parent="LoginFrame">
+		<EDITLOOK>NormalEditLook</EDITLOOK>
+		<BOUNDS>
+			<X>330</X>
+			<Y>202</Y>
+			<W>45</W>
+			<H>24</H>
+		</BOUNDS>
+		<TEXT></TEXT>
+		<VISIBLE>false</VISIBLE>
+	</EDIT>
+</XML>

@@ -1,0 +1,1611 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="droptable">
+
+<!--
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ 고블린
+        
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+-->
+<!-- 병정 고블린 -->
+<DROPSET id="11" name="G11">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200011"	rate="0.20" />							<!-- 날고기 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200011"	rate="0.20" />							<!-- 날고기 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200011"	rate="0.20" />							<!-- 날고기 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200011"	rate="0.20" />							<!-- 날고기 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200011"	rate="0.20" />							<!-- 날고기 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200011"	rate="0.20" />							<!-- 날고기 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 고블린거너 -->
+<DROPSET id="12" name="G12">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200012"	rate="0.20" />							<!-- 불고기 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200012"	rate="0.20" />							<!-- 불고기 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200012"	rate="0.20" />							<!-- 불고기 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200012"	rate="0.20" />							<!-- 불고기 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200012"	rate="0.20" />							<!-- 불고기 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200012"	rate="0.20" />							<!-- 불고기 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 고블린 위저드 -->
+<DROPSET id="13" name="G13">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.08" />
+		<ITEM id="200046" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200013"	rate="0.20" />							<!-- 스테이크 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.08" />
+		<ITEM id="200046" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200013"	rate="0.20" />							<!-- 스테이크 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.08" />
+		<ITEM id="200046" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200013"	rate="0.20" />							<!-- 스테이크 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.08" />
+		<ITEM id="200046" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200013"	rate="0.20" />							<!-- 스테이크 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.08" />
+		<ITEM id="200046" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200013"	rate="0.20" />							<!-- 스테이크 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.08" />
+		<ITEM id="200046" 	rate="0.03" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200013"	rate="0.20" />							<!-- 스테이크 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 대장 고블린 -->
+<DROPSET id="14" name="G14">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.25" />
+		<ITEM id="mag1"		rate="0.25" />
+		<ITEM id="200021"	rate="0.15" />							<!-- 고블린 인형 -->
+		<ITEM id="200008"	rate="0.15" />							<!-- 고블린의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.25" />
+		<ITEM id="mag1"		rate="0.25" />
+		<ITEM id="200021"	rate="0.15" />							<!-- 고블린 인형 -->
+		<ITEM id="200008"	rate="0.15" />							<!-- 고블린의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.25" />
+		<ITEM id="mag1"		rate="0.25" />
+		<ITEM id="200021"	rate="0.15" />							<!-- 고블린 인형 -->
+		<ITEM id="200008"	rate="0.15" />							<!-- 고블린의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.25" />
+		<ITEM id="mag1"		rate="0.25" />
+		<ITEM id="200021"	rate="0.15" />							<!-- 고블린 인형 -->
+		<ITEM id="200008"	rate="0.15" />							<!-- 고블린의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.25" />
+		<ITEM id="mag1"		rate="0.25" />
+		<ITEM id="200021"	rate="0.15" />							<!-- 고블린 인형 -->
+		<ITEM id="200008"	rate="0.15" />							<!-- 고블린의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.25" />
+		<ITEM id="mag1"		rate="0.25" />
+		<ITEM id="200021"	rate="0.15" />							<!-- 고블린 인형 -->
+		<ITEM id="200008"	rate="0.15" />							<!-- 고블린의 두골 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 고블린 족장 -->
+<DROPSET id="15" name="G15">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200018"	rate="0.20" />							<!-- 그림스크의 목걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200018"	rate="0.20" />							<!-- 그림스크의 목걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200018"	rate="0.20" />							<!-- 그림스크의 목걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200018"	rate="0.20" />							<!-- 그림스크의 목걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200018"	rate="0.20" />							<!-- 그림스크의 목걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.06" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200018"	rate="0.20" />							<!-- 그림스크의 목걸이 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 고블린킹 -->
+<DROPSET id="16" name="G16">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 가짜 고블린킹 -->
+<DROPSET id="17" name="G17">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 썬더 고블린킹 -->
+<DROPSET id="18" name="G18">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 썬더 고블린킹 주니어 -->
+<DROPSET id="181" name="G181">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 난쟁이 고블린킹 -->
+<DROPSET id="19" name="G19">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 난쟁이 고블린킹 주니어 -->
+<DROPSET id="191" name="G191">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+</DROPSET>
+
+
+<!--
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ 리쟈드
+        
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+-->
+<!-- 리쟈드 -->
+<DROPSET id="21" name="K21">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200014"	rate="0.20" />							<!-- 철 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200014"	rate="0.20" />							<!-- 철 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200014"	rate="0.20" />							<!-- 철 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200014"	rate="0.20" />							<!-- 철 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200014"	rate="0.20" />							<!-- 철 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200014"	rate="0.20" />							<!-- 철 귀걸이 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 리쟈드 샤만 -->
+<DROPSET id="22" name="K22">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200015"	rate="0.20" />							<!-- 은 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200015"	rate="0.20" />							<!-- 은 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200015"	rate="0.20" />							<!-- 은 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200015"	rate="0.20" />							<!-- 은 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200015"	rate="0.20" />							<!-- 은 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200015"	rate="0.20" />							<!-- 은 귀걸이 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 대장 리쟈드 -->
+<DROPSET id="23" name="K23">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200016"	rate="0.20" />							<!-- 금 귀걸이 -->
+		<ITEM id="200020"	rate="0.20" />							<!-- 리쟈드 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200016"	rate="0.20" />							<!-- 금 귀걸이 -->
+		<ITEM id="200020"	rate="0.20" />							<!-- 리쟈드 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200016"	rate="0.20" />							<!-- 금 귀걸이 -->
+		<ITEM id="200020"	rate="0.20" />							<!-- 리쟈드 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200016"	rate="0.20" />							<!-- 금 귀걸이 -->
+		<ITEM id="200020"	rate="0.20" />							<!-- 리쟈드 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200016"	rate="0.20" />							<!-- 금 귀걸이 -->
+		<ITEM id="200020"	rate="0.20" />							<!-- 리쟈드 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200016"	rate="0.20" />							<!-- 금 귀걸이 -->
+		<ITEM id="200020"	rate="0.20" />							<!-- 리쟈드 인형 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 리쟈드 왕 -->
+<DROPSET id="24" name="K24">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200017"	rate="0.20" />							<!-- 플래티넘 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200017"	rate="0.20" />							<!-- 플래티넘 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200017"	rate="0.20" />							<!-- 플래티넘 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200017"	rate="0.20" />							<!-- 플래티넘 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200017"	rate="0.20" />							<!-- 플래티넘 귀걸이 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200017"	rate="0.20" />							<!-- 플래티넘 귀걸이 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 리쟈드 왕(보스) -->
+<DROPSET id="25" name="K25">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 고장난 골렘 -->
+<DROPSET id="26" name="K26">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+
+
+<!--
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ 스켈레톤
+        
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+-->
+<!-- 스켈레톤 -->
+<DROPSET id="31" name="S31">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 스켈레톤 메이지 -->
+<DROPSET id="32" name="S32">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200005"	rate="0.20" />							<!-- 작은두골 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 대장 스켈레톤 -->
+<DROPSET id="33" name="S33">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200019"	rate="0.20" />							<!-- 스켈레톤 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200019"	rate="0.20" />							<!-- 스켈레톤 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200019"	rate="0.20" />							<!-- 스켈레톤 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200019"	rate="0.20" />							<!-- 스켈레톤 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200019"	rate="0.20" />							<!-- 스켈레톤 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200046" 	rate="0.05" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200019"	rate="0.20" />							<!-- 스켈레톤 인형 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 거대 스켈레톤 -->
+<DROPSET id="34" name="S34">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200006"	rate="0.20" />							<!-- 큰 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200006"	rate="0.20" />							<!-- 큰 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200006"	rate="0.20" />							<!-- 큰 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200006"	rate="0.20" />							<!-- 큰 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200006"	rate="0.20" />							<!-- 큰 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200006"	rate="0.20" />							<!-- 큰 두골 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 저주받은 시신 -->
+<DROPSET id="35" name="S35">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200007"	rate="0.20" />							<!-- 수수께끼의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200007"	rate="0.20" />							<!-- 수수께끼의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200007"	rate="0.20" />							<!-- 수수께끼의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200007"	rate="0.20" />							<!-- 수수께끼의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200007"	rate="0.20" />							<!-- 수수께끼의 두골 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+		<ITEM id="200007"	rate="0.20" />							<!-- 수수께끼의 두골 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 리치 폰 -->
+<DROPSET id="36" name="S36">
+	<ITEMSET QL="0">
+		<ITEM id="mag1"		rate="0.60" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="mag1"		rate="0.60" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="mag1"		rate="0.60" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="mag1"		rate="0.60" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="mag1"		rate="0.60" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="mag1"		rate="0.60" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 슈페리온(보스) -->
+<DROPSET id="37" name="S37">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 아네라몬(보스) -->
+<DROPSET id="38" name="S38">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 리치(보스) -->
+<DROPSET id="39" name="S39">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!--
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ 팜포아
+        
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+-->
+<!-- 팜포우 베이비 -->
+<DROPSET id="41" name="P41">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200022"	rate="1.0" />							<!-- 팜포우 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200022"	rate="1.0" />							<!-- 팜포우 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200022"	rate="1.0" />							<!-- 팜포우 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200022"	rate="1.0" />							<!-- 팜포우 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200022"	rate="1.0" />							<!-- 팜포우 인형 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="200022"	rate="1.0" />							<!-- 팜포우 인형 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 팜포우 베이비 : 실전용 -->
+<DROPSET id="48" name="P48">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 팜포아 -->
+<DROPSET id="42" name="P42">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.5" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.5" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.5" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.5" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.5" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.15" />
+		<ITEM id="200046" 	rate="0.5" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"		rate="0.20" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 대장 팜포아 -->
+<DROPSET id="43" name="P43">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.10" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 대장 팜포아 보스 -->
+<DROPSET id="46" name="P46">
+	<ITEMSET QL="0">
+		<ITEM id="200026"	rate="1.0" />							<!-- 팜포우 아이돌 -->
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200026"	rate="1.0" />							<!-- 팜포우 아이돌 -->
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200026"	rate="1.0" />							<!-- 팜포우 아이돌 -->
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200026"	rate="1.0" />							<!-- 팜포우 아이돌 -->
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200026"	rate="1.0" />							<!-- 팜포우 아이돌 -->
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200026"	rate="1.0" />							<!-- 팜포우 아이돌 -->
+	</ITEMSET>
+</DROPSET>
+
+<!-- 팜포우 -->
+<DROPSET id="44" name="P44">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.20" />
+		<ITEM id="200046" 	rate="0.15" />
+		<ITEM id="hp1"		rate="0.20" />
+		<ITEM id="ap1"		rate="0.20" />
+		<ITEM id="mag1"	rate="0.20" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 팜포우 보스 -->
+<DROPSET id="47" name="P47">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 저주받은 팜포우 -->
+<DROPSET id="45" name="P45">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+
+
+<!--
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ 이벤트용
+        
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+-->
+<!-- 병정 고블린 -->
+<DROPSET id="101" name="G11EH">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 리쟈드 -->
+<DROPSET id="201" name="K21EH">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 스켈레톤 -->
+<DROPSET id="301" name="S31EH">
+	<ITEMSET QL="0">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="200045" 	rate="0.80" />
+		<ITEM id="200046" 	rate="0.60" />
+		<ITEM id="200047" 	rate="0.40" />
+	</ITEMSET>
+</DROPSET>
+
+<!-- 1000번대부터는 챌린지 퀘스트 -->
+<DROPSET id="1001" name="C1">
+	<ITEMSET QL="0">
+		<ITEM id="hp2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="hp2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="hp2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="hp2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="hp2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="hp2"		rate="1.00" />
+	</ITEMSET>
+</DROPSET>
+
+<DROPSET id="1002" name="C2">
+	<ITEMSET QL="0">
+		<ITEM id="mag2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="1">
+		<ITEM id="mag2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="2">
+		<ITEM id="mag2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="3">
+		<ITEM id="mag2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="4">
+		<ITEM id="mag2"		rate="1.00" />
+	</ITEMSET>
+	<ITEMSET QL="5">
+		<ITEM id="mag2"		rate="1.00" />
+	</ITEMSET>
+</DROPSET>
+
+
+</XML>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

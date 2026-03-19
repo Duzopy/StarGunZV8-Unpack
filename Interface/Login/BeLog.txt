@@ -1,0 +1,28 @@
+RSBSP Exporter Modded by Linear88 (Build Apr 30 2014)
+Starting BSP Export...
+object map_Poseidon : map_Poseidon: 11239 ver / 2388 face 
+RSBsp Info : 3260 faces
+Scene Dimension ( 3467.8 8016.3 1299.8 )
+Export Objects.
+Export description.. 
+Saving Source Data.
+CSG union - 1 objects
+construct object subtree map_Poseidon ( 3260 source polygon ) : total 2718 faces splitted 1460 leaf nodes 3689 nodes 11418 polygons
+0 faces eliminated. (solid)
+3260 source polygons remain
+optimized 1835 polygons remain
+Generating Convex polygons...
+Optimize Polygon 3260 -> 1835 
+Constructing Collision BspTree. ( 1835 source polygons )
+Collision Bsp Info : total 10274 faces splitted 1430 leaf nodes 7886 nodes 17260 polygons
+Constructing OcTree. ( 1835 source polygons )
+Octree Info : total 580 faces splitted 20 leaf nodes 39 nodes 2415 polygons
+Constructing BspTree. ( 1835 source polygons )
+RSBsp Info : total 1608 faces splitted 1072 leaf nodes 2143 nodes 3443 polygons
+Constructing Bsp Bounding Volumes.
+Saving Bsp information.
+C:\Program Files (x86)\StarGunzV7\Log\Interface\Login\Login.RS file saved
+C:\Program Files (x86)\StarGunzV7\Log\Interface\Login\Login.RS.bsp file saved
+C:\Program Files (x86)\StarGunzV7\Log\Interface\Login\Login.RS.col file saved
+Exporting takes 0 minutes and     16 seconds.
+Done.
